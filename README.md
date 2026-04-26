@@ -1,41 +1,16 @@
-# Refus de maternité. Corps, langues et imaginaires queer en français
+# Refus de maternité : corps, langues et imaginaires queer en français (XXᵉ–XXIᵉ siècles)
 
 **Colloque international**  
 **Université de Ferrare** — Département des Études humanistes  
-**13 mars 2026**
+**13 mars 2026** — Salle 1C, Palazzo Turchi di Bagno, corso Ercole I d'Este 32, Ferrara
 
 ---
 
 ## Présentation du colloque
 
-Le colloque international *Refus de maternité. Corps, langues et imaginaires queer en français* a réuni à l'Université de Ferrare des chercheuses et chercheurs travaillant sur les représentations littéraires, juridiques et culturelles du non-désir d'enfant, du refus de maternité et des contre-discours reproductifs dans le domaine francophone contemporain.
+Le colloque international *Refus de maternité : corps, langues et imaginaires queer en français (XXᵉ–XXIᵉ siècles)* a réuni à l'Université de Ferrare des chercheuses et chercheurs venant d'universités européennes et nord-américaines, autour des représentations littéraires et discursives du refus de maternité dans les littératures francophones contemporaines.
 
-L'événement s'inscrit dans le cadre du cours de Littérature française II (Licence, 2ème année) consacré aux *Maternités queer et contre-discours juridiques en langue française*, dont il constitue la séance-conférence centrale (séance 9 du programme).
-
-## Organisation
-
-**Organisation scientifique :** Vera Gajiu (Université de Ferrare)  
-**Cadre institutionnel :** Département des Études humanistes, Université de Ferrare
-
-## Contenu du dépôt
-
-- `programme/` — programme détaillé et affiche du colloque
-- `call-for-papers/` — appel à communications
-- `presse/` — communiqué de presse et documents institutionnels
-
-## Actes du colloque
-
-Les actes du colloque seront publiés dans la revue *Écho des études romanes* en **septembre 2027**. Les références bibliographiques complètes et les liens DOI vers les articles seront ajoutés à ce dépôt dès leur publication.
-
-## Diffusion des résumés
-
-Les résumés des communications individuelles ne sont pas mis à disposition dans ce dépôt : ils relèvent de la propriété intellectuelle des auteur·e·s et seront accessibles via leurs publications respectives.
-
-## Cours associé
-
-Ce colloque s'inscrit dans le cadre du cours dédié aux maternités queer et aux contre-discours juridiques en langue française. Voir le dépôt :  
-[litterature-francaise-ferrara](https://github.com/veragajiu/litterature-francaise-ferrara)
-
+L'événement explore la manière dont le refus de maternité interroge les normes sociales et linguistiques liées à la reproduction, à la généalogie et à l'identité féminine, ainsi que les implications politiques, écologiques et culturelles de ces positions. À travers des interventions consacrées à des romans, essais et pratiques autobiographiques contemporains, le colloque met en dialogue études litt
 ## Contact
 
 Vera Gajiu — [vera.gajiu@unife.it](mailto:vera.gajiu@unife.it)  
